@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Working :**  Microsoft Azure Cloud :cloud:
--  **Learning :** AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta)  :grey_question:
+-  **Learning :** Cybersecurity, Python, how to be a decent employee after 20+ years as a freelancer...  :grey_question:
 -  **Hobbies :** Ultrarunning :running_shirt_with_sash:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
